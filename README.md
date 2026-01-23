@@ -34,10 +34,9 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ### 🛠 Compétences Techniques
 
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> **Langages :** Python, Java, C, Assembleur
-* <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="20"> **Intelligence Artificielle :** Deep Learning (MMPose), Modèles de Diffusion, Vision par ordinateur
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"> **Outils :** Git, Bash, VS Code, Jupyter, Google Colab
-* <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="18"> **Système :** Mac M1 (Architecture ARM64), Linux
+- **Langages :** Python, Java, C, Assembleur
+- **Outils & Environnement :** VS Code, Jupyter, Google Colab, Bash
+- **Matériel :** Utilisateur **Mac M1** (Architecture ARM64)
 
 ---
 
