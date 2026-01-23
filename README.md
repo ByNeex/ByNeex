@@ -1,11 +1,11 @@
-# Salut, moi c'est Bastien BABU (ByNeex)
+# Bastien BABU (ByNeex)
 
 ### Étudiant en L3 Double Licence Mathématiques & Informatique (MIDL)
 **Université Toulouse III - Paul Sabatier**
 
 Passionné autant par les **Mathématiques** que par l'**Informatique**, j'ai choisi ce double cursus pour ne jamais avoir à sacrifier l'un pour l'autre. Mon approche consiste à lier la puissance des outils numériques à la rigueur des modèles mathématiques. Pour moi, ces deux disciplines sont indissociables : les maths apportent la profondeur, et l'informatique donne les moyens d'agir.
 
-L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mondes. Actuellement, j'explore ce potentiel à travers des projets concrets comme la vision par ordinateur ou l'imagerie médicale, avec l'objectif d'intégrer un Master ou une École d'Ingénieur (IAFA, SID,  ENSEEIHT, INSA).
+L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mondes. Actuellement, j'explore ce potentiel à travers des projets concrets comme la vision par ordinateur ou l'imagerie médicale, avec l'objectif d'intégrer un Master (IAFA, SID, MAPI3) ou une École d'Ingénieur (ENSEEIHT, INSA).
 
 
 ---
