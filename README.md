@@ -12,12 +12,12 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ### 🚀 Projets Majeurs
 
-- **Estimation de Pose et Analyse Cinématique : Application au Tennis**
+- **[Estimation de Pose et Analyse Cinématique : Application au Tennis]**
   - Utilisation de **MMPose** pour la détection de points clés corporels.
   - Analyse biomécanique des mouvements pour l'optimisation de la performance sportive.
   - *Stack : Python, Deep Learning, Vision par ordinateur.*
 
-- **À venir - Stage Écho à partir du bruit : Génération d'images échographiques synthétiques**
+- **[À venir - Stage] Écho à partir du bruit : Génération d'images échographiques synthétiques**
   - Utilisation de **Modèles de Diffusion** pour la génération de données synthétiques.
   - Objectif : Améliorer la **segmentation d'images réelles** via l'augmentation de données.
   - Application directe à l'imagerie médicale et au diagnostic assisté par IA.
@@ -34,10 +34,9 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ### 🛠 Compétences Techniques
 
-[![Mes Compétences](https://skillicons.dev/icons?i=py,java,c,asm,vscode,jupyter,apple,bash&theme=dark)](https://skillicons.dev)
-
----
-**Environnement :** Double cursus Math-Info • Utilisateur **Mac M1** • Google Colab
+- **Langages :** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
+- **Outils & Environnement :** ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- **Matériel :** Utilisateur **Mac M1 (Architecture ARM64)**.
 
 ---
 
