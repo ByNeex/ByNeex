@@ -34,29 +34,10 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ### 🛠 Compétences Techniques
 
-**Langages**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> &nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/x86/x86-original.svg" alt="Assembly" width="45" height="45"/>
+[![Mes Compétences](https://skillicons.dev/icons?i=py,java,c,asm,vscode,jupyter,apple,bash&theme=dark)](https://skillicons.dev)
 
-<br>
-<br>
-
-**Outils & Environnement**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/> &nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/> &nbsp; &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="45" height="45"/> &nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
-
-<br>
-<br>
-
-**Système**
-<br>
-💻 Utilisateur **Mac M1** (Architecture ARM64)
+---
+**Environnement :** Double cursus Math-Info • Utilisateur **Mac M1** • Google Colab
 
 ---
 
