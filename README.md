@@ -34,9 +34,10 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ### 🛠 Compétences Techniques
 
-- **Langages :** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
-- **Outils & Environnement :** ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- **Matériel :** Utilisateur **Mac M1 (Architecture ARM64)**.
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> **Langages :** Python, Java, C, Assembleur
+* <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="20"> **Intelligence Artificielle :** Deep Learning (MMPose), Modèles de Diffusion, Vision par ordinateur
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"> **Outils :** Git, Bash, VS Code, Jupyter, Google Colab
+* <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="18"> **Système :** Mac M1 (Architecture ARM64), Linux
 
 ---
 
