@@ -1,6 +1,6 @@
-# Salut, moi c'est Bastien BABU (ByNeex) 👋
+# Salut, moi c'est Bastien BABU (ByNeex)
 
-### 🎓 Étudiant en L3 Double Licence Mathématiques & Informatique (MIDL)
+### Étudiant en L3 Double Licence Mathématiques & Informatique (MIDL)
 **Université Toulouse III - Paul Sabatier**
 
 Passionné autant par les **Mathématiques** que par l'**Informatique**, j'ai choisi ce double cursus pour ne jamais avoir à sacrifier l'un pour l'autre. Mon approche consiste à lier la puissance des outils numériques à la rigueur des modèles mathématiques. Pour moi, ces deux disciplines sont indissociables : les maths apportent la profondeur, et l'informatique donne les moyens d'agir.
@@ -10,7 +10,7 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ---
 
-### 🚀 Projets Majeurs
+### Projets Majeurs
 
 - **Estimation de Pose et Analyse Cinématique : Application au Tennis**
   - Utilisation de **MMPose** pour la détection de points clés corporels.
@@ -25,14 +25,14 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ---
 
-### 🧠 Mes engagements et convictions
+### Mes engagements et convictions
 
 - **IA pour l'Humanité & Alignement :** Profondément engagé dans la vision d'une **IA bénéfique**, mon objectif est de contribuer au développement de systèmes conçus pour assister et augmenter les capacités humaines plutôt que de s'y substituer. 
 - **IA & Santé (Médecine de Précision) :** Convaincu que l'IA doit être un outil au service de la vie. Mon stage sur les modèles de diffusion illustre ma volonté d'utiliser la puissance des réseaux de neurones pour améliorer le diagnostic médical et la recherche clinique.
 
 ---
 
-### 🛠 Compétences Techniques
+### Compétences Techniques
 
 - **Langages :** Python, Java, C, Assembleur
 - **Outils & Environnement :** VS Code, Jupyter, Google Colab, Bash
@@ -40,4 +40,4 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ---
 
-📫 **Me contacter :** [bastien.babu24@gmail.com](mailto:bastien.babu24@gmail.com)
+**Me contacter :** [bastien.babu24@gmail.com](mailto:bastien.babu24@gmail.com)
