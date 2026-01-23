@@ -39,8 +39,9 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp; &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> &nbsp; &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/otaviopace/assembly-icon/master/icons/assembly.svg" alt="Assembly" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/x86/x86-original.svg" alt="Assembly" width="45" height="45"/>
 
+<br>
 <br>
 
 **Outils & Environnement**
@@ -50,6 +51,7 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="45" height="45"/> &nbsp; &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
 
+<br>
 <br>
 
 **Système**
