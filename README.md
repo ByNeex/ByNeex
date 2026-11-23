@@ -1,7 +1,7 @@
 # Bastien BABU (ByNeex)
 
-### Étudiant en L3 Double Licence Mathématiques & Informatique (MIDL)
-**Université Toulouse III - Paul Sabatier**
+### Élève-Ingénieur en 2A Science du Numérique - Image & Mutlimédia
+**INP - ENSEEIHT**
 
 Passionné autant par les **Mathématiques** que par l'**Informatique**, j'ai choisi ce double cursus pour ne jamais avoir à sacrifier l'un pour l'autre. Mon approche consiste à lier la puissance des outils numériques à la rigueur des modèles mathématiques. Pour moi, ces deux disciplines sont indissociables : les maths apportent la profondeur, et l'informatique donne les moyens d'agir.
 
@@ -12,16 +12,18 @@ L'**Intelligence Artificielle** est le terrain où je fais converger ces deux mo
 
 ### Projets Majeurs
 
+- **Stage d'initiation à la recherche : Génération d'images échographiques synthétiques par modèles de diffusions**
+  - Utilisation de **Modèles de Diffusion** pour la génération de données synthétiques.
+  - Objectif : Améliorer la **segmentation d'images réelles** via l'augmentation de données.
+  - Application directe à l'imagerie médicale et au diagnostic assisté par IA.
+  - *Mots-clés : Generative AI, Diffusion Models, Medical Imaging, Data Augmentation.*
+
 - **Estimation de Pose et Analyse Cinématique : Application au Tennis**
   - Utilisation de **MMPose** pour la détection de points clés corporels.
   - Analyse biomécanique des mouvements pour l'optimisation de la performance sportive.
   - *Stack : Python, Deep Learning, Vision par ordinateur.*
 
-- **À venir - Stage Écho à partir du bruit : Génération d'images échographiques synthétiques**
-  - Utilisation de **Modèles de Diffusion** pour la génération de données synthétiques.
-  - Objectif : Améliorer la **segmentation d'images réelles** via l'augmentation de données.
-  - Application directe à l'imagerie médicale et au diagnostic assisté par IA.
-  - *Mots-clés : Generative AI, Diffusion Models, Medical Imaging, Data Augmentation.*
+...
 
 ---
 
